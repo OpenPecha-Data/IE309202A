@@ -1,0 +1,11 @@
+id: 30020ce9feda4d108cf9438f1cc05c45
+annotation_type: pagination
+revision: '00001'
+annotations:
+- id: 1da8250aca8e4ac097e85b9ff0f68c6a
+  span:
+    start: 0
+    end: 596
+  page_index: 1a
+  page_info: null
+  reference: I3CN71150001
